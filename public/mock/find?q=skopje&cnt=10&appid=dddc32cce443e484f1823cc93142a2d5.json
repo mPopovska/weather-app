@@ -1,0 +1,2 @@
+
+{"message":"accurate","cod":"200","count":1,"list":[{"id":785842,"name":"Skopje","coord":{"lat":42,"lon":21.4333},"main":{"temp":272.64,"feels_like":269.72,"temp_min":272.04,"temp_max":273.15,"pressure":1014,"humidity":93},"dt":1610658561,"wind":{"speed":1.03,"deg":10},"sys":{"country":"MK"},"rain":null,"snow":{"1h":0.29},"clouds":{"all":90},"weather":[{"id":600,"main":"Snow","description":"light snow","icon":"13n"}]}]}
